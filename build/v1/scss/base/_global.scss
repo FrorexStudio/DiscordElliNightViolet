@@ -30,10 +30,10 @@
 
 // Left sidebar
 .guilds-2JjMmN {
-    position: relative;
-    width: 72px;
-    -ms-flex-negative: 0;
-    flex-shrink: 0;
+    // position: relative;
+    // width: 72px;
+    // -ms-flex-negative: 0;
+    // flex-shrink: 0;
 }
 
 .wrapper-1_HaEi {
@@ -76,12 +76,9 @@
         // contain: layout size;
     }
 
-    .none-2-_0dP {} 
-    .scrollerBase-_bVAAt{}
-
 }
 
-.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub {
     // color: #fff;
     // background-color: var(--brand-experiment);
     background-image: var(--home-icon-image) !important;
@@ -93,29 +90,6 @@
 .homeIcon-r0w4ny {
     display: none;
 }
-
-
-
-
-
-
-// main
-.base-2jDfDU {
-
-}
-
-.content-1SgpWY {
-    // sidebar
-    .sidebar-1tnWFu {
-
-    }
-
-    // main
-    .container-2cd8Mz {
-
-    }
-}
-
 
 
 
