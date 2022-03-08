@@ -34,8 +34,8 @@
 
   /* Buttons */
   --primary-btn-color: var(--main-theme-color);
-  --primary-hover-btn-color: color-mix(in srgb, var(--main-theme-color) 10%, black);
-  --primary-active-btn-color: color-mix(in srgb, var(--main-theme-color) 20%, black);
+  --primary-hover-btn-color: rgb(146, 130, 218);
+  --primary-active-btn-color: rgb(131, 116, 222);
 
 
 
