@@ -10,15 +10,6 @@
     background: inherit;
 }
 
-[aria-controls="add_friend-tab"] {
-    background-color: var(--main-theme-color) !important;
-    color: white !important;
-
-    &:hover {
-        background-color: rgba($color: var(--main-theme-color), $alpha: 0.5) !important;
-    }
-}
-
 .container-2oNtJn {
     background-color: inherit;
 }

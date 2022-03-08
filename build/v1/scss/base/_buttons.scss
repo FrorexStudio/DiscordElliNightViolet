@@ -59,3 +59,12 @@
     background-color: var(--main-theme-color);
     color: #fff;
 }
+
+[aria-controls="add_friend-tab"] {
+    background-color: var(--main-theme-color) !important;
+    color: white !important;
+
+    &:hover {
+        background-color: var(--main-theme-color) !important;
+    }
+}
