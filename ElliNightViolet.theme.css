@@ -21,7 +21,8 @@
   --theme-transparency: rgba(31, 0, 29, 0.8);
 
   /* Home Icon Image */
-  --home-icon-image: url(https://i.imgur.com/SIancP6.jpeg);
+  /* --home-icon-image: url(https://i.imgur.com/SIancP6.jpeg); */
+  --home-icon-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/DefaultImageHome.gif);
 
   /* Folders */
   --folder-background-color: #2f3136;
