@@ -11,7 +11,8 @@
 
 :root {
   /* Theme Background */
-  --theme-background-image: url(https://i.imgur.com/KIsBnP5.jpeg);
+  /* --theme-background-image: url(https://i.imgur.com/KIsBnP5.jpeg); */
+  --theme-background-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/DefaultImageBackground.webp);
 
   /* Main Theme Color */
   --main-theme-color: rgb(154, 137, 216);
