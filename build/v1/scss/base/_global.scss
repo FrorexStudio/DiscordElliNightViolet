@@ -88,8 +88,8 @@
 }
 
 [aria-controls="add_friend-tab"] {
-    background-color: var(--main-theme-color);
-    color: white;
+    background-color: var(--main-theme-color) !important;
+    color: white !important;
 }
 
 // .tabBody-2dgbAs {
