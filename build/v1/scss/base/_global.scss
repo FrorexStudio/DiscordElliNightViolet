@@ -87,8 +87,9 @@
     background: inherit;
 }
 
-[aria-label="Добавить в друзья"] {
+[aria-controls="add_friend-tab"] {
     background-color: var(--main-theme-color);
+    color: white;
 }
 
 
