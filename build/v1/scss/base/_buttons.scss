@@ -9,7 +9,7 @@
     transition: background-color .15s ease-out, color .15s ease-out;
 
     &:hover {
-        background-color: var(--main-theme-color);
+        background-color: var(--primary-btn-color);
         color: var(--text-normal);
     }
 }
@@ -18,16 +18,16 @@
 
 .lookFilled-yCfaCM.colorGreen-3y-Z79:active {
     // background-color: hsl(138,calc(var(--saturation-factor, 1)*47%),25.9%);
-    background-color: var(--main-theme-color);
+    background-color: var(--primary-active-btn-color);
 }
 .lookFilled-yCfaCM.colorGreen-3y-Z79:hover {
     // background-color: hsl(139,calc(var(--saturation-factor, 1)*47.1%),33.3%);
-    background-color: var(--main-theme-color);
+    background-color: var(--primary-hover-btn-color);
 }
 .lookFilled-yCfaCM.colorGreen-3y-Z79 {
     color: #fff;
     // background-color: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
-    background-color: var(--main-theme-color);
+    background-color: var(--primary-btn-color);
 }
 
 

@@ -32,16 +32,22 @@
   /* Scroll */
   --scrollbar-color: rgba(100, 0, 92, 0.8);
 
-  /*
-    Small User Popout
-  */
+  /* Buttons */
+  --primary-btn-color: var(--main-theme-color);
+  --primary-hover-btn-color: color-mix(in srgb, var(--main-theme-color) 10%, black);
+  --primary-active-btn-color: color-mix(in srgb, var(--main-theme-color) 20%, black);
+
+
+
+
+
+  
+  /* Small User Popout */
   --small-user-popout-background-image: var(--theme-background-image);
   --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --small-user-popout-background-image-position: center;
 
-  /*
-    Big User Popout
-  */
+  /* Big User Popout */
   --big-user-popout-background-image: var(--theme-background-image);
   --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;

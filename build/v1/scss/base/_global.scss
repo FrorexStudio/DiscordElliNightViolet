@@ -67,6 +67,9 @@
 // Main sidebar h2
 .container-q97qHp {
     color: var(--main-theme-color);
+    &:hover {
+        color: var(--main-theme-color);
+    }
 }
 
 // Main sidebar footer
