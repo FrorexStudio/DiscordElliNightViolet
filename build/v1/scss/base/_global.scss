@@ -32,6 +32,7 @@
     display: none;
 }
 
+// sidebar folders
 .folder-241Joy {
     background-color: var(--folder-background-color)
 }
@@ -45,7 +46,22 @@
 }
 
 
-
+// Main
+.base-2jDfDU {
+    .content-1SgpWY {
+        // Main Sidebar
+        .sidebar-1tnWFu {
+            // flex-direction: column;
+            // min-height: 0;
+            // width: 240px;
+            // -webkit-box-flex: 0;
+            // -ms-flex: 0 0 auto;
+            // flex: 0 0 auto;
+            // background: var(--background-secondary);
+            background: inherit;
+        }
+    }
+}
 
 
 
