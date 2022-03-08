@@ -1,0 +1,8 @@
+{
+    "name" : "ElliNight",
+    "description" : "A easily customizable and automatically updating theme for Discord",
+    "version" : "1.0",
+    "author" : "ElliNight#2811",
+    "theme" : "ElliNightPurple.theme.css",
+    "license" : "Unlicense"
+  }

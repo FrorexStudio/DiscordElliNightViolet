@@ -1,0 +1,49 @@
+/**
+* @name ElliNightViolet
+* @author ElliNight#2811
+* @version 1.0
+* @description An easily customizable and automatically updating theme
+* @invite nC7VZdmb5a
+* @source https://github.com/FrorexStudio/DiscordElliNightViolet
+*/
+
+@import url(https://FrorexStudio.github.io/DiscordElliNightViolet/build/v1/css/env.min.css);
+
+/* Any images you use MUST end with .jpg or .png or any other image extension */
+
+:root {
+  /*
+    Theme Background
+  */
+  --theme-background-image: url(https://i.imgur.com/KIsBnP5.jpeg);
+
+  /*
+    Main Theme Color
+  */
+  --main-theme-color: rgb(154, 137, 216);
+
+  /*
+    Main Theme Transparency
+  */
+  --theme-transparency: rgba(31, 0, 29, 0.8);
+
+  /*
+    Home Icon Image
+  */
+  --home-icon-image: url(https://i.imgur.com/SIancP6.jpeg);
+
+  /*
+    Change your friends icon image position
+  */
+  --home-icon-image-position: center center;
+
+
+  /* Font Size */
+  --font-size: 100%;
+
+  /* Badges */
+  --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
+  --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
+  --badges-everywhere-size: 15px; /*default = 15px*/
+
+}
