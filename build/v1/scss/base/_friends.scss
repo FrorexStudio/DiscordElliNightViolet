@@ -15,7 +15,7 @@
     color: white !important;
 
     &:hover {
-        background-color: rgba($color: var(--main-theme-color), $alpha: 0.5)
+        background-color: rgba($color: var(--main-theme-color), $alpha: 0.5) !important;
     }
 }
 
