@@ -12,7 +12,7 @@
 :root {
   /* Theme Background */
   /* --theme-background-image: url(https://i.imgur.com/KIsBnP5.jpeg); */
-  --theme-background-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/DefaultImageBackground.webp);
+  --theme-background-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/backgrounds/DefaultImageBackground.webp);
 
   /* Main Theme Color */
   --main-theme-color: rgb(154, 137, 216);
@@ -22,7 +22,7 @@
 
   /* Home Icon Image */
   /* --home-icon-image: url(https://i.imgur.com/SIancP6.jpeg); */
-  --home-icon-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/DefaultImageHome.gif);
+  --home-icon-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/avatars/DefaultImageHome.jpg);
 
   /* Folders */
   --folder-background-color: #2f3136;
