@@ -93,14 +93,15 @@
 }
 
 
-
-
-
-
-.wrapper-22ayhK {
-    background-color: initial
+.liveIndicator-TJKS7N {
+    // width: 8px;
+    // height: 8px;
+    // border-radius: 8px;
+    // background-color: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
+    background-color: var(--main-theme-color);
 }
 
-.wrapper-15CKyy {
-    background-color: initial
+.colorStatusGreen-2HKYOW {
+    // color: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
+    color: var(--main-theme-color);
 }
