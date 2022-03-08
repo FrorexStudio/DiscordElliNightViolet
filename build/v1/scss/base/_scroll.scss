@@ -8,7 +8,13 @@
     background-color: rgba(100, 0, 92, 0.8);
 }
 
-.thin-31rlnD, .thin-31rlnD.fade-1R6FHN:hover, .thin-31rlnD.scrolling-20Of9p {
-    // scrollbar-color: var(--scrollbar-thin-thumb) var(--scrollbar-thin-track);
-    scrollbar-color: rgba(100, 0, 92, 0.8) inherit;
+.thin-31rlnD::-webkit-scrollbar-track {
+    border-color: transparent;
+    background-color: inherit;
+    border: transparent
+}
+
+.thin-31rlnD::-webkit-scrollbar-thumb {
+    // background-color: var(--scrollbar-color);
+    background-color: rgba(100, 0, 92, 0.8);
 }
