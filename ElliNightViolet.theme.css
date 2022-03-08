@@ -11,7 +11,7 @@
 
 :root {
   /* Theme Background */
-  --theme-background-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/backgrounds/DefaultImageBackground.webp);
+  --theme-background-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/backgrounds/DefaultImageBackground.gif);
 
   /* Main Theme Color */
   --main-theme-color: rgb(154, 137, 216);
@@ -20,7 +20,7 @@
   --theme-transparency: rgba(31, 0, 29, 0.8);
 
   /* Home Icon Image */
-  --home-icon-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/avatars/DefaultImageHome.jpg);
+  --home-icon-image: url(https://FrorexStudio.github.io/DiscordElliNightViolet/images/static/avatars/DefaultImageHome7.gif);
 
   /* Folders */
   --folder-background-color: #2f3136;
@@ -28,7 +28,7 @@
 
   /* Scroll */
   --scrollbar-color: rgba(100, 0, 92, 0.8);
-  
+
   /* Font Size */
   --font-size: 100%;
 
