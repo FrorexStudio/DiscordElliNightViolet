@@ -31,9 +31,12 @@
   /* Font Size */
   --font-size: 100%;
 
-  /* Badges */
+  /* Animation Badges */
   --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
   --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
   --badges-everywhere-size: 15px; /*default = 15px*/
+
+  /* Standart Bages */
+  --badge-standart-bot-color: rgb(154, 137, 216);
 
 }
