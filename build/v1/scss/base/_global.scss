@@ -79,17 +79,16 @@
     .none-2-_0dP {} 
     .scrollerBase-_bVAAt{}
 
-    .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-        // color: #fff;
-        // background-color: var(--brand-experiment);
-        background-image: var(--home-icon-image) !important;
-        background-position: center !important;
-        background-repeat: no-repeat !important;
-        background-size: cover !important
-    }
-
 }
 
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+    // color: #fff;
+    // background-color: var(--brand-experiment);
+    background-image: var(--home-icon-image) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important
+}
 
 .homeIcon-r0w4ny {
     display: none;
