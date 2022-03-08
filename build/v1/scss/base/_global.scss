@@ -83,34 +83,11 @@
         // color: #fff;
         // background-color: var(--brand-experiment);
         background-image: var(--home-icon-image) !important;
-        background-position: center center !important;
+        background-position: center !important;
         background-repeat: no-repeat !important;
-        background-size: 100% !important
+        background-size: cover !important
     }
 
-
-
-
-    // .tutorialContainer-1pL9QS .wrapper-28eC3z .childWrapper-1j_1ub {
-    //     background-image: var(--home-icon-image) !important;
-    //     background-position: center center !important;
-    //     background-repeat: no-repeat !important;
-    //     background-size: 100% !important
-    // }
-
-    .tutorialContainer-1pL9QS {
-        .listItem-3SmSlK {
-            .listItemWrapper-3d87LP {
-                .wrapper-28eC3z {
-                    .svg-2zuE5p {
-                        .homeIcon-r0w4ny {
-                            display: none;
-                        }
-                    }
-                }
-            }
-        }
-    }
 }
 
 
